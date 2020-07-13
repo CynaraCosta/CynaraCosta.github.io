@@ -1,0 +1,76 @@
+h1{
+  color: #373F51;
+  font-size:400%;
+  margin-bottom: 15px;
+
+ }
+
+header{
+  padding: 1px;
+  background-color: #58A4B0;
+  text-align: center;
+  border: solid 1px;
+  border-radius: 15px;
+  border-color: #D8DBE2;
+  
+
+}
+
+h2{
+  color: #58A4B0;
+  font-size: 250%;
+  text-decoration: underline;
+}
+
+a{
+  color: #373F51;
+  margin-right: 5px;
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #373F51;
+}
+
+a:focus{
+  text-decoration: underline;
+  color: #373F51;
+}
+
+body{
+  background-color: #D8DBE2;
+  line-height: 30px;
+  font-family: 'Alone On Earth';
+  margin: 2%
+}
+
+section{
+  display: inline-block;
+  float: left;
+  margin-right: 32%;
+}
+
+.more{
+  clear:both;
+
+}
+
+footer{
+  clear: both;
+  text-align: center;
+  background-image: linear-gradient(#D8DBE2,#58A4B0);
+  border: solid 1px;
+  border-radius: 15px;
+  border-color: #D8DBE2;
+}
+
+img{
+  width: 75px;
+}
+
+ul{
+  list-style-type: none;
+}
